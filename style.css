@@ -1,0 +1,85 @@
+body{
+  background-color: #F0EEED;
+
+}
+.container {
+  text-align: center;
+  /* margin: 0 auto; */
+  margin-top: 100px;
+
+}
+h1 {
+  font-family: 'Caveat', cursive;
+  color:#609EA2;
+  font-size: 78px;
+
+}
+
+h2 {
+  font-family: 'Caveat', cursive;
+
+}
+p {
+  line-height: 1.5;
+
+}
+.resume {
+  padding-top: 25px;
+}
+
+.header{
+  font-family: 'Caveat', cursive;
+  font-size: 50px;
+  justify-content: center;
+
+}
+.about-words{
+  font-size: 25px;
+}
+
+#gh-btn{
+  color: black;
+  border-style: solid;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  background-color:#609EA2;;
+
+}
+.about-me {
+  border: 1px solid rgba(0,0,0);
+  border-radius: 20px;
+  padding: 30px;
+}
+
+#gh-btn:hover{
+  background-color:#FFBF00;
+  color:white;
+}
+#profile-img {
+  border-radius: 50%;
+  width: 200px;
+}
+ul{
+ text-align: center;
+ list-style: none;
+ padding: 0;
+
+}
+li {
+  padding: 5px;
+  display: inline-block;
+
+}
+
+.software {
+  font-size: 50px;
+}
+.footer-link{
+  color:black;
+  font-size: 50px;
+}
+
+.footer-link:hover{
+  color:#FFBF00;
+}
