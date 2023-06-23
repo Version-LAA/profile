@@ -83,3 +83,25 @@ li {
 .footer-link:hover{
   color:#FFBF00;
 }
+
+@media only screen{
+  #gh-btn {
+    padding: 10px;
+    font-size:10px;
+  }
+
+  #profile-img {
+    max-width: 100px;
+  }
+}
+
+@media (max-width: 300px){
+  #gh-btn {
+    padding: 10px;
+    font-size:10px;
+  }
+
+  #profile-img {
+    max-width: 100px;
+  }
+}
