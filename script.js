@@ -1,8 +1,9 @@
 new fullpage('#fullpage', {
   //options here
   menu: '#menu',
+  navigation:true,
   autoScrolling:true,
   scrollHorizontally: true,
-  sectionsColor:['white','#FFA503','#FFA503','#FFA503']
+  sectionsColor:['white','white','#FFA503','#FFA503']
 
 });

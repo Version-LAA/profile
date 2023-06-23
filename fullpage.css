@@ -1,7 +1,30 @@
 .section {
-  text-align:center;
-  font-size: 3em;
+
 }
 .content{
   margin:50px
+}
+
+.navbar {
+  position: fixed;
+  z-index: 1;
+
+}
+
+.fp-watermark{
+  display: none;
+}
+
+.lang {
+  font-size: 30px;
+  text-decoration: none;
+
+
+}
+
+.lang-list{
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+
 }
